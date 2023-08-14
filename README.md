@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# True False quiz 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is simple implemtation to a True False Quiz by using Axios
+![image](https://github.com/KhaoulaEZ/true-false-quiz-with-react/assets/37112408/c75554f0-45a3-4b68-b7ad-500b8c7a01d4)
+
+
+the result is 
+
+![image](https://github.com/KhaoulaEZ/true-false-quiz-with-react/assets/37112408/cd379b3c-171d-456d-89c2-7d4a53cf2d75)
+
 
 ## Available Scripts
 
